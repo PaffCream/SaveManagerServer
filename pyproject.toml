@@ -1,0 +1,10 @@
+[project]
+name = "savemanagerpathserver"
+version = "0.1.0"
+description = "A simple server for users to get latest save manager config and get the saves they want."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.12",
+    "uvicorn>=0.34.2",
+]

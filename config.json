@@ -1,0 +1,11 @@
+{
+    "saves": {
+        "domain": "https://bili33.top",
+        "path": {
+            "赛博朋克2077": "%USERPROFILE%\\Saved Games\\CD Projekt Red\\Cyberpunk 2077",
+            "黑神话：悟空": "%SteamApps%\\common\\BlackMythWukong\\b1\\Saved",
+            "测试游戏1": "%USERPROFILE%\\Saved Games\\TestGame1",
+            "测试游戏2": "%USERPROFILE%\\Saved Games\\TestGame2"
+        }
+    }
+}
