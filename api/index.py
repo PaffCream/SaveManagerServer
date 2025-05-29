@@ -35,6 +35,8 @@ async def index():
             },
             {"route": "/game", "description": "Get the list of games"},
         ],
+        "repo": "https://github.com/PaffCream/SaveManagerServer",
+        "copyright": "Copyright (c) 2025 GamerNoTitle",
     }
     return response_data
 
