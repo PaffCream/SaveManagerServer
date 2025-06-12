@@ -35,6 +35,8 @@
 
 `%AppData%` 指的是 `C:\Users\%USERNAME%\AppData\Roaming` 这个文件夹
 
-`%SteamApps` 指的是 Steam 的游戏安装文件夹，需要注意的是游戏库可以分布在多个盘符（Steam 自身的机制）
+`%SteamApps%` 指的是 Steam 的游戏安装文件夹，需要注意的是游戏库可以分布在多个盘符（Steam 自身的机制）
 
-`%USERPROFILE` 指的是 `C:\Users\%USERNAME` 这个文件夹
+`%USERPROFILE%` 指的是 `C:\Users\%USERNAME%` 这个文件夹
+
+`%STEAMID%` 指的是用户的 64 位 SteamID（可以通过 https://steamid.io/ 查询）
